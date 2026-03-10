@@ -22,4 +22,6 @@ This range test operates using the dect_shell sample. In order to build the proj
      5.2 The client will say tell the server to stop and the server should type stop and the test is concluded
 
 6. Continue back to step 3 to continue testing from a new distance.
+
+**Note:** You must specify your output file path at the top of the file.
      
